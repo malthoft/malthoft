@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: helvetica; font-weight:900;">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38" />, I'm Althof <img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="38" /></h1>
+<h1 align="center" style="font-family: helvetica; font-weight:900;">Hi <img src="https://emojis.slackmojis.com/emojis/images/1680554188/65018/cat-roomba-exceptionally-fast.gif?1680554188" width="38" />, I'm Althof <img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="38" /></h1>
 <h3 align="center" style="font-family: helvetica;">I like programing, writing and reading books.</h3>
 <p style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">
     Hi everyone, I'm Muhammad Althof Taqiyyuddin and I'm a Student with a strong interest in Programming and Gaming World.
