@@ -17,7 +17,7 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=malthoft&theme=github-dark-blue" alt="malthoft" /></p>
 <p align="center">
-    <a href="http://www.linkedin.com/in/muhammad-althof-taqiyyuddin"><img src="https://emojis.slackmojis.com/emojis/images/1643514111/711/linkedin.png?1643514111" width="28" /></a>
+    <a href="https://www.linkedin.com/in/muhammad-althof-taqiyyuddin-6a9815255"><img src="https://emojis.slackmojis.com/emojis/images/1643514111/711/linkedin.png?1643514111" width="28" /></a>
     <a href="https://t.me/"><img src="https://emojis.slackmojis.com/emojis/images/1643514489/4724/telegram.png?1643514489" width="28" /></a>
     <a href="https://www.instagram.com/alt.althof"><img src="https://emojis.slackmojis.com/emojis/images/1643514104/632/instagram.png?1643514104" width="28" /></a>
 </p>
